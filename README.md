@@ -21,3 +21,10 @@ Demo:
 
 https://github.com/AngelReyes97/Dr-Sync/assets/139978507/832f2b55-e9ba-4a85-816c-6871575129cf
 
+Creators:
+Amy Raval
+Daniel Ranchpar
+Anthony Schanen
+Anahit Meloyan
+Angel Reyes
+Glen Roe
